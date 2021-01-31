@@ -1,0 +1,4 @@
+baseURL = "https://cartoonimagepoolkilop.vercel.app"
+languageCode = "en-us"
+title = "Image Cartoon Premium"
+theme = "hugo-theme-minos"
